@@ -143,6 +143,7 @@ body{
 }
 
 .card img{
+    border: 5px solid #3882F6;
     height: 200px;
     width: auto;
     border-radius: 50%;
